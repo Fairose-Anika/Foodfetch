@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius&display=swap");
+
+.container{
+    background-color: rgb(132, 188, 147);
+    padding-bottom: 20px;
+    min-height: 100vh;
+}
+
+.headName{
+    font-family:"Delius",cursive;
+    font-size:2.5rem;
+    color : #222261;
+    text-align: center;
+    padding-top: 20px ;
+    font-weight:600;
+}
+
+#msg{
+    text-align: center;
+    color: rgb(191, 52, 96);
+    display: none;
+    margin-bottom: 20px;
+}
+
+#cardsContainer{
+  display: flex;
+  justify-content: center; 
+   flex-wrap:wrap;
+}
+
+.singleItem{
+    cursor:pointer;
+}
