@@ -107,7 +107,7 @@ function details(mealId) {
 * HTML5
 * CSS3 (Flexbox, Grid, Google Fonts)
 * JavaScript (Fetch API)
-* Bootstrap 5
+* Tailwind
 
 ---
 
