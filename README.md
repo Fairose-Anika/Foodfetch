@@ -36,7 +36,7 @@ git clone https://github.com/Fairose-Anika/Foodfetch.git
 
 3. Ensure internet connection for:
 
-   * Bootstrap CSS
+   * Tailwind
    * Google Fonts
    * TheMealDB API
 
